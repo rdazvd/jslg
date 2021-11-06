@@ -1,0 +1,8 @@
+:root {
+  --background-color: rgb(245, 240, 231);
+  --accent-color: rgb(236, 72, 31);
+}
+
+body {
+  font-family: 'Arimo', sans-serif;
+}
